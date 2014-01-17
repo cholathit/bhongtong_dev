@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails bhongtong_dev: development" uuid="4a88ba73-37b4-4d58-9090-8c7fbeedc84e">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails bhongtong_dev: test" uuid="fb40b853-490c-4128-bd59-cc8904c24625">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails bhongtong_dev: production" uuid="773b4688-309b-4aca-854f-819a05217af7">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>

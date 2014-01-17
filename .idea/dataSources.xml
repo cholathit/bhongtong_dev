@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2483281441">
+    <data-source source="LOCAL" name="Rails bhongtong_dev: development" uuid="4a88ba73-37b4-4d58-9090-8c7fbeedc84e">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:bhongtong_dev_development</jdbc-url>
+      <user-name>cholathit</user-name>
+      <user-password>dfc9dfd8dfcfdfcbdfdedfcfdfd3dfc5dfdfdfd8dfc5dfdddfc4dfccdfdfdfdedfdfdfd8dfcf</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails bhongtong_dev: test" uuid="fb40b853-490c-4128-bd59-cc8904c24625">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:bhongtong_dev_test</jdbc-url>
+      <user-name>cholathit</user-name>
+      <user-password>dfc9dfd8dfcfdfcbdfdedfcfdfd3dfc5dfdfdfd8dfc5dfdddfc4dfccdfdfdfdedfdfdfd8dfcf</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails bhongtong_dev: production" uuid="773b4688-309b-4aca-854f-819a05217af7">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:bhongtong_dev_production</jdbc-url>
+      <user-name>bhongtong_dev</user-name>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
