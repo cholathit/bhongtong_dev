@@ -20,7 +20,7 @@ development:
   database: bhongtong_dev_development
   pool: 5
   username: cholathit
-  password: createyourownfuture
+  password:
 
   # Connect on a TCP socket. Omitted by default since the client uses a
   # domain socket that doesn't need configuration. Windows does not have
@@ -49,5 +49,5 @@ test:
   database: bhongtong_dev_test
   pool: 5
   username: cholathit
-  password: createyourownfuture
+  password:
 
